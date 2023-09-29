@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\intermediates\\gold.h.obj",
+            "outputs": [
+                "C:\\Users\\Kajus\\Desktop\\original\\intermediates\\vc143.pdb",
+                ".\\intermediates\\",
+                "C:\\Users\\Kajus\\Desktop\\original\\intermediates\\gold.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "core\\menu\\controls\\gold.h",
+                    "source-path": "c:\\users\\kajus\\desktop\\original\\core\\menu\\controls\\gold.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

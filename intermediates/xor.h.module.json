@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\intermediates\\xor.h.obj",
+            "outputs": [
+                "C:\\Users\\Kajus\\Desktop\\original\\intermediates\\vc143.pdb",
+                ".\\intermediates\\",
+                "C:\\Users\\Kajus\\Desktop\\original\\intermediates\\xor.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "dependencies\\utilities\\xor.h",
+                    "source-path": "c:\\users\\kajus\\desktop\\original\\dependencies\\utilities\\xor.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
