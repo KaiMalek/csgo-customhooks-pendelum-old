@@ -3,7 +3,7 @@ CSGO CHEAT (STILL WORKS)
 - WINDOWS ONLY
 
 # Preview
-![Video preview (Rederects to YouTube)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/-rxMFAUFUow?si=R4_jWNrV5OLLWHIh))
+[![Video preview (Rederects to YouTube)]https://youtu.be/-rxMFAUFUow?si=R4_jWNrV5OLLWHIh
 ## How to use
 1. Download [SOURCE](https://github.com/Kajus14/csgo-customhooks-pendelum-old.git).
 2. Compile the project using Visual Studio 2019/2022 (use build configuration `Release/Debug | x86`).
