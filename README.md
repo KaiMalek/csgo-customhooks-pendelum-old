@@ -3,7 +3,7 @@ CSGO CHEAT (STILL WORKS)
 - WINDOWS ONLY
 
 # Preview
-NO PREVIEW YET
+(https://youtu.be/-rxMFAUFUow?si=R4_jWNrV5OLLWHIh)
 
 ## How to use
 1. Download [SOURCE](https://github.com/Kajus14/csgo-customhooks-pendelum-old.git).
